@@ -1,0 +1,26 @@
+.container-header{
+
+    position: relative;
+    background-color: #463aff;
+    h1{
+        margin: 0;
+        padding: 1rem;
+        color: $blanco;
+        font-weight: $bold;
+    }
+
+    .volver{
+
+        position: absolute;
+        top: 1rem;
+        left: 32rem;
+        padding: 1rem 4rem;
+        background-color: #fff8f8;
+        border-radius: 1rem;
+        color: black;
+        font-size: 1.7rem;
+        font-weight: bold;
+    }
+
+
+}

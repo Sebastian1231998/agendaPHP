@@ -1,0 +1,10 @@
+@import 'base/variables';
+@import 'base/globales';
+@import 'base/mixins';
+@import 'base/normalize';
+@import 'base/utilidades';
+
+//internas 
+
+@import 'internas/header.scss';
+@import 'internas/agenda.scss';
